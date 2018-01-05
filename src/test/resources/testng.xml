@@ -1,0 +1,7 @@
+<suite name="Tasks app" verbose="1" >
+    <test name="Tasks app example test" >
+        <classes>
+            <class name="tests.SimpleTest" />
+        </classes>
+    </test>
+</suite>
